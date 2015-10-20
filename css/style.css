@@ -5,6 +5,7 @@
 	Halcyonic 1.0 by nodethirtythree + FCT
 	http://nodethirtythree.com | @nodethirtythree
 	Released under the Creative Commons Attribution 3.0 license (nodethirtythree.com/license)
+	//Yeah I used a template - Jacob Foster, 2015//
 */
 
 /*********************************************************************************/
@@ -201,7 +202,7 @@
 		.button-big
 		{
 			display: inline-block;
-			background: #ed391b;
+			background: #0570E4;
 			color: #fff;
 			text-decoration: none;
 			font-size: 1.75em;
@@ -210,12 +211,12 @@
 			outline: 0;
 			border-radius: 10px;
 			box-shadow: inset 0px 0px 0px 1px rgba(255,96,96,0.65), 3px 3px 3px 1px rgba(0,0,0,0.15);
-			background-image: -moz-linear-gradient(top, #ed391b, #ce1a00);
-			background-image: -webkit-linear-gradient(top, #ed391b, #ce1a00);
-			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#ed391b), to(#ce1a00));
-			background-image: -ms-linear-gradient(top, #ed391b, #ce1a00);
-			background-image: -o-linear-gradient(top, #ed391b, #ce1a00);
-			background-image: linear-gradient(top, #ed391b, #ce1a00);
+			background-image: -moz-linear-gradient(top, #0570E4, #ce1a00);
+			background-image: -webkit-linear-gradient(top, #0570E4, #ce1a00);
+			background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#0570E4), to(#ce1a00));
+			background-image: -ms-linear-gradient(top, #0570E4, #ce1a00);
+			background-image: -o-linear-gradient(top, #0570E4, #ce1a00);
+			background-image: linear-gradient(top, #0570E4, #ce1a00);
 		}
 
 		.button-big:hover
